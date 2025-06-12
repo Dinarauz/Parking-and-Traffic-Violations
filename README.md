@@ -1,6 +1,5 @@
 # 🚗 NYC Parking & Traffic Violations Analysis (2024)
-
-![unnamed](https://github.com/user-attachments/assets/f80baf28-b1ec-4d58-820e-fe9ae71ce543)
+![49-16504 jpg](https://github.com/user-attachments/assets/6fc3cca9-fd2d-46bd-8db5-6febf3d2ef70)
 
 This project analyzes NYC parking and traffic violation data using a 1-million sample from the Department of Finance’s OpenData API. The goal is to uncover trends, identify top violators, and explore actionable improvements in enforcement and policy.
 
