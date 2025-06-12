@@ -15,6 +15,8 @@ https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations
 	•	Deepnote for collaboration
 	•	Jupyter Notebook
 	•	ChatGPT for troubleshooting support
+  	•	Tableau for visualization
+
 
 **Key Findings:**
 	•	Passenger vehicles (PAS) accounted for the majority of tickets.
@@ -28,3 +30,6 @@ https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations
  	•	Dataset restricted to 1 million rows (of 122+ million total).
 	•	Time-related data like violation time was excluded due to formatting issues.
 	•	Limited by absence of data such as driver demographics or registered vehicle counts.
+
+ **Tableau Public Dashboard**
+  	•	https://public.tableau.com/app/profile/dinara.ibotova/viz/OpenParkingandTrafficViolations/Dashboard1?publish=yes
