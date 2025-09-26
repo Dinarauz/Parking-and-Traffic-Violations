@@ -1,5 +1,7 @@
-# 🚗 NYC Parking & Traffic Violations Analysis (2024)
+# NYC Parking & Traffic Violations Analysis (2024)
 ![49-16504 jpg](https://github.com/user-attachments/assets/6fc3cca9-fd2d-46bd-8db5-6febf3d2ef70)
+
+Data Analysis of 2024 Traffic Enforcement Patterns in New York City
 
 This project analyzes NYC parking and traffic violation data using a 1-million sample from the Department of Finance’s OpenData API. The goal is to uncover trends, identify top violators, and explore actionable improvements in enforcement and policy.
 
