@@ -3,10 +3,11 @@
 
 Data Analysis of 2024 Traffic Enforcement Patterns in New York City
 
-This project analyzes NYC parking and traffic violation data using a 1-million sample from the Department of Finance’s OpenData API. The goal is to uncover trends, identify top violators, and explore actionable improvements in enforcement and policy.
+Analyzed 1 million NYC parking and traffic violation records to identify enforcement patterns, policy inconsistencies, and actionable insights for urban traffic management. Built data pipeline from NYC Open Data API and created interactive visualizations to support public policy recommendations.
 
-## 🎯 Objective
-Identify patterns in 2024 NYC parking violations and provide insights that could inform public policy or influence driver behavior.
+## Business Problem
+**Urban Traffic Management Challenge:**
+NYC issues over 122 million parking and traffic violations annually, generating significant revenue while attempting to manage traffic flow and safety. City officials need data-driven insights to optimize enforcement strategies and identify policy gaps.
 
 ## 📂 Data Source
 [NYC Open Data – Parking & Camera Violations] (https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89/about_data)
