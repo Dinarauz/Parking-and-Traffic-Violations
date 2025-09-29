@@ -21,7 +21,7 @@ NYC issues over 122 million parking and traffic violations annually, generating 
 -How enforcement varies by vehicle type
 
 ## Technical Stuff
-Code: 
+Code: https://github.com/Dinarauz/Parking-and-Traffic-Violations/blob/main/Open%20Parking%20and%20Camera%20Violations%20Analysis%20Project%20-%20Fall%202024.ipynb
 
 Used Python to pull data from NYC's API, cleaned up about 1M records (out of 122M+ total), and analyzed patterns with pandas and seaborn. Built a Tableau dashboard to visualize the findings.
 
